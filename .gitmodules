@@ -1,0 +1,4 @@
+[submodule "muhammedashraf9244/om_hospital-odoo"]
+	path = muhammedashraf9244/om_hospital-odoo
+	url = git@github.com:muhammedashraf9244/om_hospital-odoo.git
+	branch = master
