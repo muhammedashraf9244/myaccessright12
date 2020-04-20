@@ -2,3 +2,8 @@
 	path = muhammedashraf9244/om_hospital-odoo
 	url = git@github.com:muhammedashraf9244/om_hospital-odoo.git
 	branch = master
+
+[submodule "muhammedashraf9244/odoo-custom-addons"]
+	path = muhammedashraf9244/odoo-custom-addons
+	url = git@github.com:muhammedashraf9244/odoo-custom-addons.git
+	branch = master
